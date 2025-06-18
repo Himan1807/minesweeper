@@ -197,6 +197,7 @@
         color: white;
         font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-size: 1rem;
+        margin: auto 20px;
         align-content: center;
         height: 50px;
         cursor: pointer;
