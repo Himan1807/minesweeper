@@ -240,6 +240,13 @@
         white-space: pre;
     }
     
+    #whole-timer {
+        display: flex;
+        gap: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    
     footer {
         color: #ccc;
         padding-left: 20px;
