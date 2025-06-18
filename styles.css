@@ -193,13 +193,10 @@
         justify-self: center;
         width: 99%;
         gap: 15px;
-        bottom: -10px;
         background-color: #6c63ff;
         color: white;
         font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-size: 1rem;
-        padding: 10px 20px;
-        margin: auto 20px;
         align-content: center;
         height: 50px;
         cursor: pointer;
