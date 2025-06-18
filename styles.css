@@ -102,6 +102,7 @@
         border-radius: 12px;
         text-align: center;
         align-content: center;
+        justify-content: center;
     }
     
     #timer-controls,
