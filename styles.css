@@ -191,6 +191,7 @@
         text-align: center;
         align-items: center;
         justify-self: center;
+        width: 99%;
         gap: 15px;
         bottom: -10px;
         background-color: #6c63ff;
